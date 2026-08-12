@@ -22,5 +22,13 @@
       "package_name": "app.fgeri7.hitstertracker",
       "sha256_cert_fingerprints": ["EA:A7:34:85:F7:10:62:0F:54:5C:CE:6D:D0:5B:2C:A3:E4:73:09:F1:6E:57:B0:2C:44:E0:F0:18:30:00:24:AA"]
 }
+},
+{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.fgeri7.szaar",
+      "sha256_cert_fingerprints": ["54:40:9E:A2:C1:2D:04:97:36:F5:4D:AB:EF:72:E2:6B:00:DF:B2:A3:9F:29:3F:17:37:FE:E0:91:B8:05:24:C1"]
+}
 }
 ]
