@@ -46,5 +46,13 @@
         "package_name": "app.fgeri7.splendor",
         "sha256_cert_fingerprints": ["87:46:19:1A:79:A4:0A:EA:E4:61:9C:5D:29:2D:16:27:9E:1A:6A:BC:2D:F2:21:5F:59:A9:86:EA:4D:6B:AD:4B"]
 }
-} 
+}, 
+{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "com.fgeri7.tabu",
+        "sha256_cert_fingerprints": ["36:CA:C3:6C:B7:C5:99:03:0E:EF:A4:92:8C:E5:23:0D:BE:BE:D5:9F:AC:66:9F:CB:9E:47:D0:68:FE:D1:21:E1"]
+}
+}
 ]
